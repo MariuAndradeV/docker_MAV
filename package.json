@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "docker_mav",
+  "version": "1.0.0",
+  "description": "PRACTICA DOCKER",
+  "homepage": "https://github.com/MariuAndradeV/docker_MAV#readme",
+  "bugs": {
+    "url": "https://github.com/MariuAndradeV/docker_MAV/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariuAndradeV/docker_MAV.git"
+  },
+  "license": "ISC",
+  "author": "Mariu Andrade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
+  }
+}
